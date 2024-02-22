@@ -21,7 +21,7 @@ participate.html - It comes under local cleanup section to participate in cleanu
 9.html - Eco coaching section<br />
 10.html - Community forum section<br />
 
-**ML SECTION(To view the stats)**<br />
+**ML SECTION (To view the stats)**<br />
 <br />
 A separate ML(EDA) jupyter file is added to provide detailed analysis.<br />
 <br />
