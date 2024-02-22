@@ -1,4 +1,4 @@
-#SUSTAINABLE LIVING HUB<br />
+*SUSTAINABLE LIVING HUB*<br />
 <br />
 Welcome to the Sustainable Living Hub GitHub repository! This repository hosts the source code for the Sustainable Living Hub website, a platform dedicated to promoting sustainable living practices and raising awareness about environmental conservation.
 
