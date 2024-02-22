@@ -1,12 +1,12 @@
-*SUSTAINABLE LIVING HUB*<br />
+**SUSTAINABLE LIVING HUB**<br />
 <br />
 Welcome to the Sustainable Living Hub GitHub repository! This repository hosts the source code for the Sustainable Living Hub website, a platform dedicated to promoting sustainable living practices and raising awareness about environmental conservation.
 
-#OVERVIEW<br />
+**OVERVIEW**<br />
 <br />
 The Sustainable Living Hub website serves as a central hub for individuals interested in adopting sustainable lifestyle choices. It provides information, resources, and tips on various aspects of sustainable living, including but not limited to energy conservation, waste reduction, eco-friendly products, and community initiatives.<br />
 
-#WEBSITE SECTIONS<br />
+**WEBSITE SECTIONS**<br />
 <br />
 index.html - main page<br />
 participate.html - It comes under local cleanup section to participate in cleanups.<br />
@@ -21,7 +21,7 @@ participate.html - It comes under local cleanup section to participate in cleanu
 9.html - Eco coaching section<br />
 10.html - Community forum section<br />
 
-#ML SECTION (To view the stats)<br />
+**ML SECTION(To view the stats)**<br />
 <br />
 A separate ML(EDA) jupyter file is added to provide detailed analysis.<br />
 <br />
